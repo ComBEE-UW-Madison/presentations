@@ -3,7 +3,7 @@
 This repository contains presentations used for ComBEE purposes, such as general info, workshop materials, or monthly talk slides from presenters. 
 
 
-### Contributing
+### Contributing:
 When you add slides to this repo, please add a `pdf` version of the slides 
 and keep it in sync with any other forms (pptx, md, etc.)
 
