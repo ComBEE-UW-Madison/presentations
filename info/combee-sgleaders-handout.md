@@ -25,7 +25,8 @@ Whether you have prepared material to go through or not, you should still have a
 
 ## Github Site Organization
 
-```python-study-group-
+```
+python-study-group-
     | - README.md
     	| + schedule for current semester here
     | - Semester folder (example 2017Fall)
