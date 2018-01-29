@@ -25,7 +25,7 @@ Whether you have prepared material to go through or not, you should still have a
 
 ## Github Site Organization
 
-python-study-group-
+```python-study-group-
     | - README.md
     	| + schedule for current semester here
     | - Semester folder (example 2017Fall)
@@ -33,3 +33,4 @@ python-study-group-
     		| - contains the link to the collaborative document and then a copy of the notes from the collaborative document in here after the meeting
     | - Archive
     	| + All the semester folders from past semesters
+```
